@@ -3,3 +3,4 @@
 ### Engineered the client to establish TCP connections and display server responses for debugging and verification.
 ### hello.html is an example file to be ran in a local directory in the same space as the client and server.
 ### Instructions to run the python files are commented at the top of each.
+### Under http-server.py, all code beneath #TODO comments done by me, otherwise provided by professor Syed M. Rizvi
